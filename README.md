@@ -8,4 +8,4 @@ Currently the API is subject to change, feedback / contributions are welcome.
 
 ## Is it fast?
 
-Currently on my system (i5 6600k), with 5 library folders and 33 games, the libraryfolders example takes 1-3ms to run.
+Currently on my system (i5 6600k), with 5 library folders and 33 games, both the libraryfolders and findgame examples take 1-3ms to run.
